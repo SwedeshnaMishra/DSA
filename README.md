@@ -1,3 +1,4 @@
 # DSA
 
-**Leetcode:** [Swedeshna_Mishra]([https://leetcode.com/u/Swedeshna_Mishra/])
+### Leetcode: [Click here](https://leetcode.com/u/Swedeshna_Mishra/)
+### GeeksforGeeks: [Click here](https://www.geeksforgeeks.org/user/swedeshnam68qs/)
