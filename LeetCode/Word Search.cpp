@@ -22,6 +22,7 @@
 // 1 <= word.length <= 15
 // board and word consists of only lowercase and uppercase English letters.
 
+
 class Solution {
 public:
     int ROWS, COLS;
